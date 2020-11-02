@@ -13,7 +13,7 @@ Who will win the match between Team A and Team B?
 
 ### Steps to take
 
-1. Obtain data from web (e.g. liquipedia, straff etc.)
+1. Obtain data from web (e.g. liquipedia, strafe etc.)
 2. Analyze data
 3. Decide which variables to use (e.g. Total number of matches played between the two teams)
 4. Use Markov model or Naive Bayes model or something like that
